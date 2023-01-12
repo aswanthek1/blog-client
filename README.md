@@ -28,13 +28,13 @@ The project is completely responsive too.
 Clone the project
 
 ```bash
-  git clone https://github.com/aswanthek1/blog-server.git
+  git clone https://github.com/aswanthek1/blog-client.git
 ```
 
 Go to the project directory backend
 
 ```bash
-  cd backend
+  cd client
 ```
 
 Install dependencies
@@ -46,7 +46,7 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run server
+  npm start
 ```
 
 <br/>
