@@ -1,14 +1,14 @@
-import React from 'react'
-import BlogArea from '../components/BlogArea/BlogArea'
-import Header from '../components/Header/Header'
+import React from "react";
+import BlogArea from "../components/BlogArea/BlogArea";
+import Header from "../components/Header/Header";
 
 const BlogAreaPage = () => {
   return (
     <div>
-        <Header/>
-      <BlogArea/>
+      <Header />
+      <BlogArea />
     </div>
-  )
-}
+  );
+};
 
-export default BlogAreaPage
+export default BlogAreaPage;
