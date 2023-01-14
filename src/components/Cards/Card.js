@@ -3,7 +3,6 @@ import { useNavigate } from "react-router-dom";
 
 const Card = ({ blog }) => {
   const navigate = useNavigate();
-  console.log(blog._id);
   return (
     <div>
       <div
